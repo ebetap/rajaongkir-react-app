@@ -1,0 +1,10 @@
+/* Cutsomize Tabs */
+.customTabs button.active{
+  color: #5850ec;
+  border-color: #5850ec;
+}
+
+.customTabs button.active:focus{
+  outline: none!important;
+  outline-color: transparent!important;
+}
