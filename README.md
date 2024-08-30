@@ -1,11 +1,8 @@
 ## How to run locally:
-
-1. Clone this repo
-2. In the project directory, you can run:
-
-### `npm install`
-
-### `npm start`
+### 1. Clone this repo
+### 2. In the project directory, you can run:
+### 3. `npm install`
+### 4. `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -22,5 +19,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## login credentials:
 
+```javascript
 Username: testuser
 Password: password123
+```
