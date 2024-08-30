@@ -19,5 +19,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## login credentials:
 
+```javascript
 Username: testuser
 Password: password123
+```
